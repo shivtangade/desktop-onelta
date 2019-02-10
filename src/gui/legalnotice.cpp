@@ -24,10 +24,10 @@ LegalNotice::LegalNotice(QDialog *parent)
 {
     _ui->setupUi(this);
 
-    QString notice = tr("<p>Copyright 2017-2018 Nextcloud GmbH<br />"
-                        "Copyright 2012-2018 ownCloud GmbH</p>");
+    QString notice = tr("<p>oneLTA AG<br />"
+                        "</p>");
 
-    notice += tr("<p>Licensed under the GNU General Public License (GPL) Version 2.0 or any later version.</p>");
+    notice += tr("<p>Refer Terms of Usage and Privacy Policy at join.onelta.com.</p>");
 
     _ui->notice->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::TextBrowserInteraction);
     _ui->notice->setText(notice);

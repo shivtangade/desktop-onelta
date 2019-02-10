@@ -1,12 +1,12 @@
 <RCC>
     <qresource prefix="/client">
-        <file alias="theme/colored/Nextcloud-icon-512.png">theme/colored/512-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-256.png">theme/colored/256-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-128.png">theme/colored/128-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-22.png">theme/colored/22-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-32.png">theme/colored/32-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-48.png">theme/colored/48-Nextcloud-icon.png</file>
-        <file alias="theme/colored/Nextcloud-icon-64.png">theme/colored/64-Nextcloud-icon.png</file>
+        <file alias="theme/colored/onelta-icon-512.png">theme/colored/512-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-256.png">theme/colored/256-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-128.png">theme/colored/128-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-22.png">theme/colored/22-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-32.png">theme/colored/32-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-48.png">theme/colored/48-onelta-icon.png</file>
+        <file alias="theme/colored/onelta-icon-64.png">theme/colored/64-onelta-icon.png</file>
         <file>theme/colored/state-error-32.png</file>
         <file>theme/colored/state-error-64.png</file>
         <file>theme/colored/state-error-128.png</file>
