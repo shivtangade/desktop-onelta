@@ -1,5 +1,7 @@
 #!/bin/bash
 SRCDIR=$(pwd)
+git submodule init
+git submodule update
 rm -rf build;
 rm -rf install;
 mkdir build
