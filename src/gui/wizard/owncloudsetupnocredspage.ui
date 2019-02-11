@@ -128,7 +128,7 @@
        </property>
       </spacer>
      </item>
-<!--      <item>
+     <item>
       <widget class="QPushButton" name="createAccountButton">
        <property name="minimumSize">
         <size>
@@ -146,7 +146,7 @@
         <bool>false</bool>
        </property>
       </widget>
-     </item> -->
+     </item>
      <item>
       <widget class="QPushButton" name="loginButton">
        <property name="sizePolicy">
