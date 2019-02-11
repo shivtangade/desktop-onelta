@@ -88,7 +88,7 @@ OwncloudSetupPage::OwncloudSetupPage(QWidget *parent)
     _ui.slideShow->startShow();
 
     QPalette pal = _ui.slideShow->palette();
-    pal.setColor(QPalette::WindowText, theme->wizardHeaderBackgroundColor());
+    pal.setColor(QPalette::WindowText, theme->wizardHeaderTitleColor());
     _ui.slideShow->setPalette(pal);
 #else
     _ui.createAccountButton->hide();

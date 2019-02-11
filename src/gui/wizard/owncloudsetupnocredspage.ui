@@ -63,7 +63,7 @@
      <item>
       <widget class="QLabel" name="installLink">
        <property name="text">
-        <string>&lt;a href=&quot;https://docs.nextcloud.com/server/15/admin_manual/installation/index.html#installation&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Host your own server&lt;/span&gt;&lt;/a&gt;</string>
+        <string>&lt;a href=&quot;https://join.onelta.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Join oneLTA&lt;/span&gt;&lt;/a&gt;</string>
        </property>
        <property name="openExternalLinks">
         <bool>true</bool>
@@ -128,7 +128,7 @@
        </property>
       </spacer>
      </item>
-     <item>
+<!--      <item>
       <widget class="QPushButton" name="createAccountButton">
        <property name="minimumSize">
         <size>
@@ -146,7 +146,7 @@
         <bool>false</bool>
        </property>
       </widget>
-     </item>
+     </item> -->
      <item>
       <widget class="QPushButton" name="loginButton">
        <property name="sizePolicy">
